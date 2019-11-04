@@ -1,0 +1,41 @@
+***************************************************************************************************************
+****************************************||BLOOD BANK MANAGEMENT SYSTEM||***************************************
+***************************************************************************************************************
+Project Start Date: Aug 27,2017
+Project Deadline: Sep 10, 2017 extend to Sep 15,2017
+Project Description:
+Project Includes: Database, Commented Source Code, Executable Setup
+Project Packages: Metro Framework
+Project Database: Microsoft SQL Server Local Database 2016
+DotNet Framework: .Net 4.6.1
+****************************************************************************************************************
+Project Contains:
+Effect.cs // To handle the control 
+Form Size: 1130 x 620
+Login Panel Size: 1130 x 482
+Login Panel Location: x = 0, y = 141;
+Register Panel Size: 1130 x 482
+LoginWindow: Slide at 90 angle
+Validator.cs // To validate registeration form
+Cryptor.cs // To enforce cryptography
+Key: lynxbbms
+Master Credentials: Username: Mudi045 Password: Mentor045
+/**************************/
+HOME PANEL CONTROLS
+/**************************/
+Home Page Dimensions = 1130,579;
+Home Page Location = 0,41;
+Add Donor Window Dimensions: 1106,459
+Add Patient Window Dimensions: 1106,459
+Update Window Dimensions: 1106,459
+/**************************/
+QUICK SEARCH PANEL CONTROLS
+***************************/
+_SearchByLabelsPanel Dimensions: 1106, 66
+_SearchBySelectWindowPanel Dimensions : 1106,66
+_SearchBySelectWindowPanel Location : 0,0;
+_SearchByLabelsWindowPanel Location: 0,0;
+_SearchBySelectlb // using for search label;
+_CloseSearchBySelectWindowPanel
+
+
